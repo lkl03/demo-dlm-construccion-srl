@@ -1,2 +1,7 @@
-# demo-dlm-construccion-srl
-Demo web para Dlm Construccion Srl — diseñada por eterlab.
+# Dlm Construccion Srl
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
